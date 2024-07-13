@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "Degree" : "Master Of Computer Applications",
+        "uni" : "Chandigarh University",
+        "time" : "2023-2025 (Persuing)",
+        "location" : "Punjab, India",
+        "Marks" : " CGPA : 9.02 "
+    },
+    {
+        "id" : 2,
+        "Degree" : "Bachelor Of Computer Applications",
+        "uni" : "Khalsa College For Women(affiliated under PU,Chandigarh)",
+        "time" : "2020-2023",
+        "location" : "Punjab, India",
+        "Marks" : " Percentage : 92.6% (Gained Third Position in University in Final year)"
+    },
+    {
+        "id" : 3,
+        "Degree" : "Advance Diploma in Animation And Graphics",
+        "uni" : "Khalsa College(affiliated under Panjab University,Chandigarh)",
+        "time" : "2020-2023",
+        "location" : "Punjab, India",
+        "Marks" : " Percentage : 95.2% "
+    },
+    {
+        "id" : 4,
+        "Degree" : "XII with Mathematics",
+        "uni" : "B.C.M School",
+        "time" : "2019-2020",
+        "location" : "Punjab, India",
+        "Marks" : " Percentage : 97% "
+    }
+]

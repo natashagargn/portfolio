@@ -1,0 +1,50 @@
+[
+    {
+      "key": 1,
+      "title": " The Hungersoul ",
+      "imageSrc": "projects/hungersoul.PNG",
+      "description": "This is a restaurant website project made with Html, CSS, Javascript, PHP and Bootstrap.",
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "key": 2,
+      "title": "Amazon UI Clone",
+      "imageSrc": "projects/amazonclone.PNG",
+      "description": "This is a amazon UI clone project made with Html, CSS and Javascript.",
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "key": 3,
+      "title": "Movie Review Sentiment Analyzer",
+      "imageSrc": "projects/movieReview.PNG",
+      "description": "This is a machine-learning based sentiment analysis model project.",
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "key": 4,
+      "title": "Password Generator",
+      "imageSrc": "projects/passGen.PNG",
+      "description": "This is a project made with React js and Bootstrap for generating strong passwords.",
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+        "key": 3,
+        "title": "Currency Converter",
+        "imageSrc": "projects/currency.PNG",
+        "description": "React-based currency converter that provides real-time exchange rate conversions .",
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+      },
+      {
+        "key": 4,
+        "title": "Portfolio",
+        "imageSrc": "projects/portfolioo.PNG",
+        "description": "A portfolio showcasing my diverse projects and professional skills across various domains",
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+      }
+  ]
