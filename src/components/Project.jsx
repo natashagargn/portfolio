@@ -1,10 +1,12 @@
 import React from 'react'
 import projects from './data/projects.json'
+import { Link } from 'react-router-dom'
+
 function Project() {
   return (
     <>
       <div className="container project">
-        <h1 className="heading text-center mx-auto my-auto mb-5 mt-5">Projects</h1>
+        <h1 className="heading text-center mx-auto my-auto mb-5 ">Projects</h1>
         <div className="row">
           {projects.map((data) => {
             return (
@@ -19,8 +21,8 @@ function Project() {
                           <p className="card-text">{data.description}</p>
                           <div className="links text-center">
                             
-                          <a href="#" className="btn btn-project mx-1"><i className="fas fa-link"></i> Visit Site</a>
-                          <a href="#" className="btn btn-project mx-1"><i className="fab fa-github"></i> Github</a>
+                          <Link to={data.demo} className="btn btn-project mx-1"><i className="fas fa-link"></i> Visit Site</Link>
+                          <Link to={data.source} className="btn btn-project mx-1"><i className="fab fa-github"></i> Github</Link>
                           </div>
                         </div>
                     </div>

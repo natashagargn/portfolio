@@ -4,7 +4,7 @@ function Skills() {
     return (
         <>
             <div className="container skills  ">
-                <h1 className='text-center heading mx-auto my-auto mb-5 mt-5 '>
+                <h1 className='text-center heading mx-auto my-auto mb-5  '>
                     Skills
                 </h1>
 
