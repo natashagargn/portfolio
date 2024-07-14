@@ -61,6 +61,7 @@ a:hover {
 @media (max-width: 1200px) {
   .hamburger {
     display: block; /* Show hamburger icon on smaller screens */
+    padding-right: 1rem;
   }
 
   .menu {
@@ -114,7 +115,7 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  height:68vh;
+  height:75vh;
  }
  .hero-content{
   background-color: transparent;
@@ -188,14 +189,24 @@ a:hover {
 @media (max-width: 767px) {
   .hero-content {
     margin-bottom: 1.2rem;
+    height:12rem;
+    width:65%;
+    /* margin-bottom: 3rem; */
+  }
+  .home {
+    flex-direction: column;
+  }
+  .right .img img {
+    
   }
 
   .right .img img {
     height: 220px;
     width: 220px;
+    margin-left:20%;
   }
 }
-@media (max-width: 576px) {
+/* @media (max-width: 576px) {
   .home {
     flex-direction: column;
   }
@@ -207,7 +218,7 @@ a:hover {
     margin-bottom: 3rem;
   }
   
-}
+} */
 
 
 /*                           Education                   */
