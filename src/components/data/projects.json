@@ -13,7 +13,7 @@
       "imageSrc": "projects/amazonclone.PNG",
       "description": "This is a amazon UI clone project made with Html, CSS and Javascript.",
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://www.github.com/natashagargn"
     },
     {
       "key": 3,
@@ -36,8 +36,8 @@
         "title": "Currency Converter",
         "imageSrc": "projects/currency.PNG",
         "description": "React-based currency converter that provides real-time exchange rate conversions .",
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "demo": "https://react-currency-converter-alpha.vercel.app/",
+        "source": "https://github.com/natashagargn/react-currency-converter"
       },
       {
         "key": 4,
